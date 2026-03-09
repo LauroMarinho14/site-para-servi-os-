@@ -5,8 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pérola Nails | Studio de Beleza</title>
     <style>
-        /* Estilos Gerais */
-        * {
+        
+
+
+
+        {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
@@ -19,7 +22,10 @@
             line-height: 1.6;
         }
 
-        /* Cabeçalho */
+        
+
+
+
         header {
             background-color: #fff;
             padding: 1rem 5%;
@@ -52,7 +58,8 @@
             color: #d4a373;
         }
 
-        /* Banner Principal */
+       
+
         .hero {
             height: 60vh;
             background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), 
@@ -115,7 +122,9 @@
         .card-content p { font-size: 0.9rem; color: #777; margin-bottom: 15px; }
         .price { font-weight: bold; color: #d4a373; font-size: 1.1rem; }
 
-        /* Rodapé */
+       
+
+
         footer {
             background-color: #333;
             color: white;
